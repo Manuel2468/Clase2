@@ -1,0 +1,11 @@
+
+
+Nombre: Manuel
+Apellido: Romero
+Sueldo: 1000000
+Salario Devengado:333333.3333333333
+
+Nombre: Angelica
+Apellido: Franco Rojas
+Sueldo: 2500000
+Salario Devengado:2500000.0

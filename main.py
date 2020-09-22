@@ -20,9 +20,17 @@ e2.setSueldo(2500000)
 e2.setDiasLiquidados(30)
 empleados.append(e2) #Ingreso de informacion en el arreglo
 
-
+'''
 for i in empleados:
     print('\n',i)
+'''
+f = open('Hoja de Empleados.txt', 'w')
+for i in empleados:
+    f.write('\n')
+    f.write(str(i))
+f.close()
+
+
 
 '''
 print(e1.getNombre())
